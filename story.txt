@@ -33,3 +33,10 @@ had lived in the neighbourhood of The Hill for time out of mind, and people
 considered them very respectable, not only because they never had any 
 adventures or did anything unexpected: you could tell what a Baggins would 
 say on any question withoutthe bother of asking him. 
+
+But one day there came a wizard to knock on perfect round door of Bag End. 
+The wizard's name was Gandalf, and he had a company of dwarves and an
+idea for a quest that would change the life of one Bilbo Baggins forever.
+Faraway, on a mountain that was once the dwarves' home, sleeping on 
+an ocean of golden treasure, was a terrible dragon by the name of Smaug. 
+The dwarves needed the company of a hobbit to help them defeat it. 
